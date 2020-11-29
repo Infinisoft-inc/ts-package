@@ -1,2 +1,3 @@
-export {sayHello, sayGoodbye} from './hello-world'
+export { IHistory } from './models/history';
+export { registerPlugin } from './plugin'
 

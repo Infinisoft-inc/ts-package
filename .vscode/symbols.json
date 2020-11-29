@@ -1,1 +1,1 @@
-{"symbols":{},"files":{}}
+{"symbols":{"IHistory":{"hasNamespace":false,"type":1,"moduleName":"history","relativePath":"src\\models\\history"}},"files":{"src\\models\\history.ts":"2020-11-29T05:01:46.086Z","src\\plugin.ts":"2020-11-29T05:05:19.824Z","src\\index.ts":"2020-11-29T05:05:26.451Z","dist\\index.d.ts":"2020-11-29T05:05:44.252Z"}}
