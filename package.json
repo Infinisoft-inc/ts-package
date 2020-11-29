@@ -1,7 +1,6 @@
 {
-  "name": "ts-package",
+  "name": "@infini-soft/ts-package",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -18,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/Infinisoft-inc/ts-package/issues"
   },
-  "homepage": "https://github.com/Infinisoft-inc/ts-package#readme"
+  "homepage": "https://github.com/Infinisoft-inc/ts-package#readme",
+  "description": ""
 }
